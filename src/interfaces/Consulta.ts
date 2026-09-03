@@ -1,6 +1,7 @@
 import { Medico } from "./medico";
 import { Paciente } from "../types/paciente";
-import { StatusConsulta } from "../types/statusConsulta";
+import { StatusConsulta } from "../types/StatusConsulta";
+
 
 export interface Consulta {
     id: number;
